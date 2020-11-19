@@ -1,0 +1,22 @@
+ipd\_model.spaces package
+=========================
+
+Submodules
+----------
+
+ipd\_model.spaces.game module
+-----------------------------
+
+.. automodule:: ipd_model.spaces.game
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: ipd_model.spaces
+    :members:
+    :undoc-members:
+    :show-inheritance:

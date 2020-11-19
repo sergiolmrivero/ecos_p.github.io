@@ -1,0 +1,22 @@
+el\_farol\_bar\_model.spaces package
+====================================
+
+Submodules
+----------
+
+el\_farol\_bar\_model.spaces.game module
+----------------------------------------
+
+.. automodule:: el_farol_bar_model.spaces.game
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: el_farol_bar_model.spaces
+    :members:
+    :undoc-members:
+    :show-inheritance:
