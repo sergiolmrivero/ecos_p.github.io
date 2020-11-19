@@ -1,0 +1,18 @@
+ipd\_model package
+==================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    ipd_model.agents
+    ipd_model.spaces
+
+Module contents
+---------------
+
+.. automodule:: ipd_model
+    :members:
+    :undoc-members:
+    :show-inheritance:

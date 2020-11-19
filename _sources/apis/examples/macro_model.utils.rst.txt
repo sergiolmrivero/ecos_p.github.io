@@ -1,0 +1,22 @@
+macro\_model.utils package
+==========================
+
+Submodules
+----------
+
+macro\_model.utils.convert\_y\_j module
+---------------------------------------
+
+.. automodule:: macro_model.utils.convert_y_j
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: macro_model.utils
+    :members:
+    :undoc-members:
+    :show-inheritance:

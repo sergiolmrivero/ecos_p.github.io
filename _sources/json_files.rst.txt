@@ -1,0 +1,27 @@
+.. This is the description of the json files used in the framework
+
+
+json definition files
+=====================
+
+
+
+Sistem Configuration
+--------------------
+
+
+
+
+
+App Configuration
+-----------------
+
+
+
+
+
+Simulation Definition
+---------------------
+
+
+

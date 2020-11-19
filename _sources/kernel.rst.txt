@@ -1,0 +1,16 @@
+.. Describes the implementation of the Kernel
+
+Kernel Main Features
+====================
+
+Dependency Injection
+
+
+Creating a 
+
+The simulation module
+
+The model module
+
+The schedule module
+

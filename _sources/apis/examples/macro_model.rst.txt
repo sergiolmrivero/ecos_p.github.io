@@ -1,0 +1,19 @@
+macro\_model package
+====================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    macro_model.agents
+    macro_model.spaces
+    macro_model.utils
+
+Module contents
+---------------
+
+.. automodule:: macro_model
+    :members:
+    :undoc-members:
+    :show-inheritance:

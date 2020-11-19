@@ -1,0 +1,22 @@
+examples.macro\_model.utils package
+===================================
+
+Submodules
+----------
+
+examples.macro\_model.utils.convert\_y\_j module
+------------------------------------------------
+
+.. automodule:: examples.macro_model.utils.convert_y_j
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: examples.macro_model.utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
